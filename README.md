@@ -86,5 +86,4 @@ Global state yang dikelola:
 
 1. **Clone repo**:
    ```bash
-   git clone https://github.com/namamu/react-dummystore.git
-   cd react-dummystore
+   git clone https://github.com/samanbrembo14/uts_pemrograman_web_122140197.git
