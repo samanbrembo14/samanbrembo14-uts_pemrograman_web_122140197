@@ -51,7 +51,7 @@ LINK WEBSITE : https://uts-pemrograman-web-122140197-iv9v.vercel.app/
 ### ✅ 5. State Management
 #### 📦 Menggunakan: **Context API + useReducer**
 
-Kami memilih `Context + useReducer` karena:
+Saya memilih `Context + useReducer` karena:
 
 - Cocok untuk aplikasi berskala menengah
 - State yang digunakan cukup kompleks (search, cart, like)
