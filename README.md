@@ -1,6 +1,8 @@
 # 🛒 DummyStore – React E-commerce UTS Project
 
 DummyStore adalah aplikasi toko online sederhana berbasis **React** yang dibuat sebagai proyek UTS mata kuliah **Pemrograman Web**. Aplikasi ini menampilkan daftar produk dari **DummyJSON API**, dilengkapi fitur keranjang, pencarian, filter kategori, hingga favorit produk.
+
+---
 LINK WEBSITE : https://uts-pemrograman-web-122140197-iv9v.vercel.app/
 ---
 
